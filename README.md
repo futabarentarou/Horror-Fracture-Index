@@ -1,6 +1,6 @@
 # Horror Fracture Index
 
-![Horror Fracture Index Banner](assets/horror_fracture_banner.png)
+![Horror Fracture Index Banner](assets/Horror Fracture Index banner.png)
 
 ## NLP Analysis of Perceptual Rupture in Creepypasta Stories
 
